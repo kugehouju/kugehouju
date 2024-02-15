@@ -1,4 +1,7 @@
-### Yoooooooooo
+### Hi👋 I'm KugeHouju
+<p>Nice to meet you, my name is KugeHouju.<br>
+  I am working hard every day to study to become a full stack designer.<br>
+  I love both coding and design<333</p>
 
 <!--
 **kugehouju/kugehouju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
