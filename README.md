@@ -5,7 +5,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kugehouju&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kugehouju&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=kugehouju&theme=onedark&column=6
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>Nice to meet you, my name is KugeHouju.<br>
