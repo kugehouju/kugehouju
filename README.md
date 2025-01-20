@@ -1,6 +1,6 @@
 ### Hi👋 I'm KugeHouju
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={kugehouju}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugehouju
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
