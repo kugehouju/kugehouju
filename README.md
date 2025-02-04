@@ -6,7 +6,7 @@
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,vscode,ps,ai,figma,xd,discord" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,vscode,figma,ps,ai,xd,discord" />
 <br>
 
 ## 🌱 Studying...
