@@ -6,10 +6,10 @@
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,vscode,figma,ps,ai,xd,discord" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,vscode,figma,ps,ai,xd,discord" />
 
 ## 🌱 Studying...
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,nodejs,ts,php,python" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=react,next,nodejs,ts,php,python" />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugehouju&layout=compact&show_icons=true" />
