@@ -5,8 +5,11 @@
   I love both coding and design<3</p>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## 🧠 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,vscode,figma,ps,ai,xd,discord" />
 
 ## 🌱 Studying...
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=php,mysql,laravel,react,next,nodejs,ts,python" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kugehouju&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugehouju&layout=compact&theme=tokyonight)
