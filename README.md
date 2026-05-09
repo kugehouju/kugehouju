@@ -9,4 +9,4 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,vscode,figma,ps,ai,xd,discord" />
 
 ## 🌱 Studying...
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=php,sql,laravel,react,next,nodejs,ts,python" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=php,mysql,laravel,react,next,nodejs,ts,python" />
